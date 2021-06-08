@@ -45,14 +45,14 @@ List<Activity> activities = [
 List<Destination> destinations = [
   Destination(
       imageUrl: 'assets/images/pato.jpg',
-      city: 'Venice',
-      country: 'Italy',
+      city: 'Nairobi',
+      country: 'Kenya',
       description: 'We are here for a good time not a long time, you know',
       activities: activities),
   Destination(
       imageUrl: 'assets/images/pato.jpg',
-      city: 'Venice',
-      country: 'Italy',
+      city: 'Cairo',
+      country: 'Egypt',
       description: 'We are here for a good time not a long time, you know',
       activities: activities),
   Destination(
